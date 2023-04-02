@@ -1,0 +1,7 @@
+# ignore dir build
+build
+sdkconfig
+sdkconfig.old
+sdkconfig.ci
+.idea
+.vscode
