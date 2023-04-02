@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM7",
+  "files.associations": {
+    "lv_demos.h": "c",
+    "lv_port_disp.h": "c",
+    "lv_demo_benchmark.h": "c",
+    "typeinfo": "c",
+    "esp_spi_flash.h": "c",
+    "lv_demo_stress.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "sdkconfig.h": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}
